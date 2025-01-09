@@ -62,5 +62,5 @@ if __name__ == "__main__":
     # Parse the arguments
     args = parser.parse_args()
 
-    # Call the scrape function with the provided URL
+    # Call the scrape function with the provided URL and print the results
     print(scrape_news_article(args.url))

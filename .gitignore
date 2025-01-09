@@ -1,0 +1,14 @@
+# Ignore the virtual environment folder
+env_scrap/
+
+# Ignore Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignore environment variables files
+.venv
+
+# Ignore other system files like MacOS or Windows
+.DS_Store
+Thumbs.db

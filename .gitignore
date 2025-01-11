@@ -12,3 +12,9 @@ __pycache__/
 # Ignore other system files like MacOS or Windows
 .DS_Store
 Thumbs.db
+# Ignore virtual environment
+.venv/
+
+# Ignore PyCharm project files
+.idea/
+
